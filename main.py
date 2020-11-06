@@ -4,4 +4,4 @@ def printWord(word):
   
 def sum(n1,n2):
   """Return the sum of two number"""
-  pass
+  return n1+n2
